@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>wholesomelife.net/homepage/</loc>
+    <loc>https://master--wholesomelife.netlify.app/homepage/</loc>
     <lastmod>2023-12-10T15:02:01+08:00</lastmod>
   </url><url>
-    <loc>wholesomelife.net/</loc>
+    <loc>https://master--wholesomelife.netlify.app/</loc>
   </url><url>
-    <loc>wholesomelife.net/services/</loc>
+    <loc>https://master--wholesomelife.netlify.app/services/</loc>
   </url><url>
-    <loc>wholesomelife.net/legal/</loc>
+    <loc>https://master--wholesomelife.netlify.app/legal/</loc>
   </url>
 </urlset>
