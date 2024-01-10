@@ -2,12 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wholesomelife.net/homepage/</loc>
-    <lastmod>2023-12-10T15:02:01+08:00</lastmod>
+    <loc>https://wholesomelife.net/recent/</loc>
+    <lastmod>2024-01-11T03:39:03+08:00</lastmod>
   </url><url>
     <loc>https://wholesomelife.net/</loc>
+    <lastmod>2023-12-30T19:23:47+08:00</lastmod>
   </url><url>
-    <loc>https://wholesomelife.net/services/</loc>
+    <loc>https://wholesomelife.net/elderly/prolonging-life-elements/</loc>
+    <lastmod>2023-12-30T19:23:47+08:00</lastmod>
+  </url><url>
+    <loc>https://wholesomelife.net/elderly/macrobian/</loc>
+    <lastmod>2023-12-23T21:14:36+08:00</lastmod>
+  </url><url>
+    <loc>https://wholesomelife.net/child/</loc>
   </url><url>
     <loc>https://wholesomelife.net/legal/</loc>
   </url>
